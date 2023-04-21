@@ -1,0 +1,16 @@
+{
+	"prettier.useTabs": true,
+	"prettier.enable": true,
+	"prettier.printWidth": 80,
+	"coc.preferences.formatOnSave": false,
+
+	// Python config
+	"python.linting.enabled": true,
+	"python.linting.mypyEnabled": true,
+
+	"dialog.rounded": true,
+
+	"snippets.ultisnips.directories": ["UltiSnips", "~/.config/nvim/utils/snips"],
+
+	"snippets.ultisnips.pythonPrompt": false
+}
