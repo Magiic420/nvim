@@ -10,7 +10,7 @@ My config has some of the following:
 
   3. Nvim-Tree
 
-  4. Nvim-Surround
+  4. Telescope (fzf)
   
   5. My own code runner plugin
   
